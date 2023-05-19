@@ -1,0 +1,10 @@
+.tab-btn {
+  background-color: inherit;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  margin-right: 20px;
+}

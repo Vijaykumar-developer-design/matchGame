@@ -1,0 +1,9 @@
+.thumb-img {
+  height: 80px;
+  width: 80px;
+  margin: 10px;
+}
+.thumb-img-btn {
+  background-color: inherit;
+  border: none;
+}
