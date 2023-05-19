@@ -294,7 +294,7 @@ class App extends Component {
   }
 
   resetGame = () => {
-    setInterval(this.time, 1000)
+    this.timerID=setInterval(this.time, 1000)
     this.setState(prevState => ({
       gameStarted: !prevState.gameStarted,
       score: 0,
